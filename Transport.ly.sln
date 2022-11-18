@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transport.ly", "Transport.ly\Transport.ly.csproj", "{B0E0E5C1-A99F-4F16-B45A-F60F9E0F8721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E0E5C1-A99F-4F16-B45A-F60F9E0F8721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E0E5C1-A99F-4F16-B45A-F60F9E0F8721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E0E5C1-A99F-4F16-B45A-F60F9E0F8721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E0E5C1-A99F-4F16-B45A-F60F9E0F8721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FF99BDC-2349-419F-9D55-238C11A2D9B4}
+	EndGlobalSection
+EndGlobal
